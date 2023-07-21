@@ -5,14 +5,12 @@ title: Akilesh
 # Akilesh
 Assistant Professor & Officer-In-Charge (Dentistry), JIPMER, Karaikal, Puducherry
 
-<div id="webaddress"> Write to me at: <a href="akilesh.r@jipmer.ac.in">akilesh.r [at] jipmer[dot] ac [dot] in </a>
-</div>
+<div id="webaddress"> Write to me at: akilesh.r [at] jipmer[dot] ac [dot] in </div>
 
 ### Specialised in
 
 1. Maxillofacial Facial Trauma, Temporomandibular joint disorders, Orofacial pain, Benign Orofacial pathologies, Multidisciplinary management of head and neck deformities/pathology, Maxillofacial Esthetic Procedures, Orthognathic Surgery.
 2. Patient specific implant technology and additive manufacturing principles and use of virtual surgical planning for maxillofacial region.
-
 
 ### Research interests
 
