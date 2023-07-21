@@ -1,91 +1,29 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Akilesh
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Akilesh
+Assistant Professor & Officer-In-Charge (Dentistry), JIPMER, Karaikal, Puducherry
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="webaddress"> Write to me at: <a href="akilesh.r@jipmer.ac.in">akilesh.r [at] jipmer[dot] ac [dot] in </a>
 </div>
 
+### Specialised in
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+1. Maxillofacial Facial Trauma, Temporomandibular joint disorders, Orofacial pain, Benign Orofacial pathologies, Multidisciplinary management of head and neck deformities/pathology, Maxillofacial Esthetic Procedures, Orthognathic Surgery.
+2. Patient specific implant technology and additive manufacturing principles and use of virtual surgical planning for maxillofacial region.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+1. Evidence based practice/Systematic reviews & Meta-analysis, Research methodology, Surgically oriented research & Reproducible/responsible research with emphasis on use of AI/ML for public good.
+2. Medical education & Dental Education – Curriculum Development, Assessment methods & innovative teaching methods in surgical skills.
+3. Healthcare quality, Patient Safety
+4. Behavioural Research and design, Design thinking.
 
 
-## Education
+## To know more about my work/interests:
+[Google Scholar Profile](https://scholar.google.co.in/citations?user=IdCpTDsAAAAJ&hl=en) || [ResearchGate](https://www.researchgate.net/profile/Akilesh-Ramasamy) || [ORCID](https://orcid.org/0000-0002-5725-2378)
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<!-- ### Footer -->
+Last updated: Jul 2023
