@@ -5,7 +5,7 @@ title: Akilesh
 # Akilesh
 Assistant Professor & Officer-In-Charge (Dentistry), JIPMER, Karaikal, Puducherry
 
-<div id="webaddress"> <img src = "email.png"> </div>
+<div id="webaddress"> <img src = "media/email.png"> </div>
 
 ### Specialised in
 
